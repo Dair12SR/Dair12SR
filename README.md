@@ -1,70 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=190&section=header&text=Aldair%20Sanchez%20Romero&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Ingeniero%20de%20Sistemas%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20,24,28&height=160&section=header&text=Aldair%20Sanchez%20Romero&fontSize=44&fontAlignY=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=72&descSize=18" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas+%7C+8vo+Ciclo;Full+Stack+Developer+%28Java+%2B+Spring+Boot+%2B+React%29;Arquitectura+de+Software+%7C+Clean+Code+%7C+Best+Practices;Construyendo+soluciones+escalables+y+seguras+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=950&lines=Ingeniero+de+Sistemas+%7C+Full+Stack+Engineer;Java+%2B+Spring+Boot+%2B+React+%2B+PostgreSQL;Arquitectura+de+Software+%7C+Clean+Code+%7C+SOLID;Backend+robusto%2C+Frontend+elegante%2C+Datos+seguros)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Dair12SR?style=social)
-![Stars](https://img.shields.io/github/stars/Dair12SR?style=social)
-![Views](https://komarev.com/ghpvc/?username=Dair12SR&color=0891b2&style=flat-square&label=Visitas)
+![Followers](https://img.shields.io/github/followers/Dair12SR?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/Dair12SR?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Dair12SR&color=00E5FF&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 PERFIL PROFESIONAL
 
-<img align="right" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+Ingeniero de Sistemas (**8vo ciclo**) especializado en **desarrollo Full Stack profesional**, con enfoque fuerte en **backend robusto**, **arquitectura limpia** y **aplicaciones escalables de nivel productivo**.
 
-Soy **Ingeniero de Sistemas (8vo ciclo)** con enfoque en **desarrollo Full Stack**, apasionado por crear **aplicaciones web escalables, seguras y bien estructuradas**, aplicando **arquitectura de software, buenas prácticas y clean code**.
-
-📍 **Ubicación:** Huancayo, Perú  
-🎓 **Carrera:** Ingeniería de Sistemas  
-💼 **Rol:** Full Stack Developer  
-🔥 **Stack principal:** Java + Spring Boot + React
+📍 Huancayo, Perú  
+🎓 Ingeniería de Sistemas – UPLA  
+💼 Full Stack Software Engineer  
 
 ---
 
-## 🎯 Especialidades Técnicas
+## 🧠 ESPECIALIDADES
 
-- ✔️ Diseño y desarrollo de **APIs REST** profesionales
-- ✔️ Arquitectura **monolítica modular y microservicios**
-- ✔️ Autenticación y autorización con **JWT & Spring Security**
-- ✔️ Modelado y gestión de **bases de datos relacionales**
-- ✔️ Desarrollo frontend moderno con **React**
-- ✔️ Patrones de diseño: MVC, Repository, DTO, DAO
-- ✔️ Control de versiones con **Git & GitHub**
+- Diseño de **APIs REST** profesionales
+- **Spring Boot + Spring Security + JWT**
+- Arquitectura **monolítica modular** y **microservicios**
+- Principios **SOLID** y **Clean Code**
+- React con componentes reutilizables
+- PostgreSQL / MySQL (modelado relacional)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ STACK TECNOLÓGICO
 
-### 🔹 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-### 🔹 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### 🔹 Base de Datos & Cloud
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 
-### 🔹 DevTools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -72,7 +66,7 @@ Soy **Ingeniero de Sistemas (8vo ciclo)** con enfoque en **desarrollo Full Stack
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <div align="center">
 
@@ -85,41 +79,46 @@ Soy **Ingeniero de Sistemas (8vo ciclo)** con enfoque en **desarrollo Full Stack
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 PROYECTOS DESTACADOS
 
-### 🔹 Sistema de Evaluación UPLA
+### 🔹 Sistema de Evaluación de Proyectos – UPLA
 **Stack:** HTML · CSS · JavaScript  
-Sistema para evaluación y gestión de proyectos de innovación académica.
+Sistema real para evaluación académica de proyectos.
 
 ### 🔹 Sistema de Reservas de Canchas
 **Stack:** Spring Boot · React · PostgreSQL  
-Backend seguro con JWT + frontend moderno.
+API REST segura con JWT y frontend moderno.
 
-### 🔹 Plataforma de Investigación
-**Stack:** Full Stack · Autenticación · Roles  
-Gestión de proyectos, usuarios y entregables.
+### 🔹 Plataforma de Gestión de Investigación
+**Stack:** Full Stack  
+Gestión de usuarios, proyectos y entregables.
 
 ---
 
-## 🎓 Formación Académica
+## 🎓 FORMACIÓN
 
 **Ingeniería de Sistemas**  
-📍 Universidad Peruana Los Andes – Perú  
-📘 Estado: **8vo Ciclo (en curso)**  
-🎯 Enfoque: Desarrollo de Software y Arquitectura
+Universidad Peruana Los Andes – Perú  
+📘 8vo ciclo (en curso)
 
 ---
 
-## 📫 Contacto
+## 🧭 FILOSOFÍA
 
-- 💼 GitHub: https://github.com/Dair12SR
-- 📧 Email: *(agrega tu correo aquí)*
-- 🌐 Portafolio: *(cuando lo publiques)*
+> “El buen software no se improvisa, se diseña.”
+
+---
+
+## 📫 CONTACTO
+
+- GitHub: https://github.com/Dair12SR
+- Email: agrega-tu-email
+- Portafolio: próximamente
 
 ---
 
 <div align="center">
 
-✨ *"El buen software se construye con disciplina, arquitectura y pasión."* ✨
+🔥 **Code clean. Arquitectura sólida. Resultados reales.** 🔥
 
 </div>
