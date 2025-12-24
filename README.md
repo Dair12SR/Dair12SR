@@ -1,11 +1,14 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ======================================================
+     ALDAIR SÁNCHEZ ROMERO · SENIOR SOFTWARE ENGINEER
+====================================================== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&customColorList=12,16,20,24,28&text=Aldair%20Sanchez%20Romero&fontSize=46&fontAlignY=55&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20Specialist&descAlignY=75&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&customColorList=12,16,20,24,28&text=Aldair%20Sanchez%20Romero&fontSize=46&fontAlignY=55&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20Architecture&descAlignY=75&descSize=18" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Software+Engineer+with+Production+Mindset;Java+%2B+Spring+Boot+%2B+React+%2B+PostgreSQL;Backend+Architecture+%7C+Security+%7C+Scalability;Clean+Code+is+not+optional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Production-Grade+Software+Engineer;Java+%2B+Spring+Boot+%2B+React+%2B+PostgreSQL;Backend+Architecture+%7C+Security+%7C+Scalability;I+engineer+systems+that+last)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,43 +25,45 @@
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
 Senior-minded **Software Engineer** with strong specialization in **backend engineering and system architecture**.  
-Focused on building **production-grade systems** that are **secure, scalable, maintainable and observable**.
+Focused on designing and delivering **production-grade systems** that are **secure, scalable, maintainable and observable**.
 
-I design software **thinking in years, not semesters**.
+I don’t code for demos.  
+I **engineer software thinking in years, not semesters**.
 
-- 📍 Location: Huancayo, Peru  
-- 🎓 BSc. Systems Engineering (8th cycle)  
-- 💼 Role: Full Stack Software Engineer  
-- 🔥 Core strength: Backend Architecture (Java / Spring)
+- 📍 **Location:** Huancayo, Peru  
+- 🎓 **Degree:** BSc. Systems Engineering (8th cycle)  
+- 💼 **Role:** Full Stack Software Engineer  
+- 🔥 **Core strength:** Backend Architecture (Java / Spring)
 
 ---
 
 ## 🧠 ENGINEERING EXPERTISE
 
 ### Backend Engineering
-- RESTful API design (enterprise-level)
-- Spring Boot architecture (layered & modular)
+- Enterprise-level RESTful API design
+- Spring Boot architectures (layered & modular)
 - Authentication & authorization (JWT, RBAC)
-- Exception handling, validation & logging
-- Transaction management
-- Performance-aware design
+- Centralized exception handling & validation
+- Transaction management & data consistency
+- Performance-aware backend design
 
 ### Architecture & Design
 - Clean Architecture principles
 - SOLID & separation of concerns
 - DTO-based API contracts
-- Modular monolith & microservices foundations
+- Modular monolith foundations
+- Microservices-ready design
 - Design patterns (Factory, Strategy, Adapter)
 
 ### Frontend Engineering
-- React with scalable folder architecture
+- React with scalable folder structures
 - Component-driven development
 - Secure API consumption
 - State & lifecycle control
 
 ### Data Engineering
 - Relational modeling (3NF)
-- PostgreSQL / MySQL
+- PostgreSQL & MySQL
 - Query optimization
 - Referential integrity & constraints
 
@@ -75,7 +80,7 @@ I design software **thinking in years, not semesters**.
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -97,7 +102,6 @@ I design software **thinking in years, not semesters**.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dair12SR&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dair12SR&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dair12SR&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -108,17 +112,23 @@ I design software **thinking in years, not semesters**.
 
 ### 🔹 Academic Evaluation Platform
 **Stack:** HTML · CSS · JavaScript  
-Real-world system for academic project evaluation with structured workflows.
+Production-oriented system for academic project evaluation with structured workflows and role separation.
+
+---
 
 ### 🔹 Sports Court Booking Platform
 **Stack:** Spring Boot · React · PostgreSQL  
+
 - JWT authentication  
-- Role-based access  
+- Role-based access control  
 - REST API with validations  
-- Scalable backend structure  
+- Scalable backend architecture  
+
+---
 
 ### 🔹 Research Management System
 **Stack:** Full Stack  
+
 - Users, roles & permissions  
 - Project lifecycle management  
 - Secure data handling  
@@ -129,7 +139,7 @@ Real-world system for academic project evaluation with structured workflows.
 
 **BSc. Systems Engineering**  
 Universidad Peruana Los Andes – Peru  
-Status: 8th cycle (in progress)
+Status: **8th cycle (in progress)**
 
 ---
 
@@ -140,15 +150,15 @@ Status: 8th cycle (in progress)
 - Security is not optional  
 - Code is a long-term asset  
 
-> “Bad architecture works today. Good architecture works for years.”
+> *“Bad architecture works today. Good architecture works for years.”*
 
 ---
 
 ## 📫 CONTACT
 
-- GitHub: https://github.com/Dair12SR  
-- Email: sanchezaldair363@gmail.com  
-- Portfolio: http://127.0.0.1:5500/index.html#cursos 
+- 💻 GitHub: https://github.com/Dair12SR  
+- 📧 Email: sanchezaldair363@gmail.com  
+- 🌐 Portfolio: https://dair12sr.github.io 
 
 ---
 
