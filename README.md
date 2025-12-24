@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre Mí
 
-🎓 Estudiante de **Ingeniería de Sistemas** (UNCP) — **8vo ciclo**  
+🎓 Estudiante de **Ingeniería de Sistemas** (UPLA) — **8vo ciclo**  
 📍 Huancayo, Perú 🇵🇪  
 🧠 Enfoque: **Backend & Arquitectura de Software**  
 🔥 Me gusta construir software **escalable, seguro y mantenible**  
@@ -28,7 +28,7 @@
 🎯 Meta 2025: **Primera oportunidad profesional + proyectos de impacto**
 
 ### 💬 ¿Hablamos?
-- 📧 Email: **aldair.sanchez@ejemplo.com**
+- 📧 Email: **aldair.sanchezaldair362@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/tu-perfil
 - 🐙 GitHub: https://github.com/Dair12SR
 
@@ -168,7 +168,7 @@
   nombre: "Aldair Sanchez Romero",
   ubicacion: "Huancayo, Perú 🇵🇪",
   formacion: "Ingeniería de Sistemas (8vo ciclo)",
-  universidad: "Universidad Nacional del Centro del Perú",
+  universidad: "Universidad Peruana Los Andes",
   enfoque: "Backend & Arquitectura de Software",
   stack_principal: ["Java", "Spring Boot", "React", "PostgreSQL"],
   intereses_tecnicos: ["Clean Architecture", "RESTful APIs", "System Design", "Cloud Fundamentals"],
