@@ -1,18 +1,13 @@
-<!-- ======================================================
-     ALDAIR SÁNCHEZ ROMERO · SENIOR SOFTWARE ENGINEER
-====================================================== -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&customColorList=12,16,20,24,28&text=Aldair%20Sanchez%20Romero&fontSize=46&fontAlignY=55&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20Architecture&descAlignY=75&descSize=18" />
-</div>
-
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Production-Grade+Software+Engineer;Java+%2B+Spring+Boot+%2B+React+%2B+PostgreSQL;Backend+Architecture+%7C+Security+%7C+Scalability;I+engineer+systems+that+last)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,16,20,24,28&text=Aldair%20Sanchez%20Romero&fontSize=46&fontAlignY=38&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Focused&descAlignY=60&descSize=18" />
 
-</div>
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Engineering+production-grade+software;Backend+Architecture+%7C+Java+%2B+Spring;Scalable+Systems+%7C+Clean+Code)](https://git.io/typing-svg)
+
+<br/>
 
 ![Followers](https://img.shields.io/github/followers/Dair12SR?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Dair12SR?style=for-the-badge)
@@ -22,54 +17,70 @@
 
 ---
 
-## 👨‍💻 PROFESSIONAL SUMMARY
+## 👨‍💻 Professional Summary
 
-Senior-minded **Software Engineer** with strong specialization in **backend engineering and system architecture**.  
-Focused on designing and delivering **production-grade systems** that are **secure, scalable, maintainable and observable**.
+> **Senior-minded Software Engineer** specialized in **backend engineering and system architecture**, focused on building **secure, scalable and maintainable production systems**.
 
 I don’t code for demos.  
 I **engineer software thinking in years, not semesters**.
 
-- 📍 **Location:** Huancayo, Peru  
-- 🎓 **Degree:** BSc. Systems Engineering (8th cycle)  
-- 💼 **Role:** Full Stack Software Engineer  
-- 🔥 **Core strength:** Backend Architecture (Java / Spring)
+<table>
+<tr>
+<td>
+
+📍 **Location**  
+Huancayo, Peru
+
+🎓 **Degree**  
+BSc. Systems Engineering (8th cycle)
+
+💼 **Role**  
+Full Stack Software Engineer
+
+🔥 **Core Strength**  
+Backend Architecture (Java / Spring)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 ENGINEERING EXPERTISE
+## 🧠 Engineering Expertise
 
-### Backend Engineering
-- Enterprise-level RESTful API design
-- Spring Boot architectures (layered & modular)
-- Authentication & authorization (JWT, RBAC)
-- Centralized exception handling & validation
-- Transaction management & data consistency
-- Performance-aware backend design
+### ⚙️ Backend Engineering
+- Enterprise-grade REST API design  
+- Spring Boot (layered & modular architectures)  
+- Authentication & authorization (JWT, RBAC)  
+- Centralized exception handling & validation  
+- Transaction management & consistency  
+- Performance-aware backend design  
 
-### Architecture & Design
-- Clean Architecture principles
-- SOLID & separation of concerns
-- DTO-based API contracts
-- Modular monolith foundations
-- Microservices-ready design
-- Design patterns (Factory, Strategy, Adapter)
+### 🧱 Architecture & Design
+- Clean Architecture principles  
+- SOLID & separation of concerns  
+- DTO-based API contracts  
+- Modular monolith foundations  
+- Microservices-ready design  
+- Design patterns (Factory, Strategy, Adapter)  
 
-### Frontend Engineering
-- React with scalable folder structures
-- Component-driven development
-- Secure API consumption
-- State & lifecycle control
+### 🎨 Frontend Engineering
+- React with scalable folder structures  
+- Component-driven development  
+- Secure API consumption  
+- State & lifecycle control  
 
-### Data Engineering
-- Relational modeling (3NF)
-- PostgreSQL & MySQL
-- Query optimization
-- Referential integrity & constraints
+### 🗄️ Data Engineering
+- Relational modeling (3NF)  
+- PostgreSQL & MySQL  
+- Query optimization  
+- Referential integrity & constraints  
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+## 🛠️ Technology Stack
+
+<div align="center">
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
@@ -88,27 +99,29 @@ I **engineer software thinking in years, not semesters**.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 
-### DevOps & Tooling
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 
+</div>
+
 ---
 
-## 📊 ENGINEERING METRICS
+## 📊 Engineering Metrics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dair12SR&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dair12SR&layout=compact&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dair12SR&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dair12SR&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 SELECTED PROJECTS (PRODUCTION-FOCUSED)
+## 🚀 Selected Projects
 
 ### 🔹 Academic Evaluation Platform
 **Stack:** HTML · CSS · JavaScript  
@@ -135,7 +148,7 @@ Production-oriented system for academic project evaluation with structured workf
 
 ---
 
-## 🎓 EDUCATION
+## 🎓 Education
 
 **BSc. Systems Engineering**  
 Universidad Peruana Los Andes – Peru  
@@ -143,7 +156,7 @@ Status: **8th cycle (in progress)**
 
 ---
 
-## 🧭 ENGINEERING PRINCIPLES
+## 🧭 Engineering Principles
 
 - Architecture before implementation  
 - Explicit is better than implicit  
@@ -154,17 +167,16 @@ Status: **8th cycle (in progress)**
 
 ---
 
-## 📫 CONTACT
+## 📫 Contact
 
 - 💻 GitHub: https://github.com/Dair12SR  
 - 📧 Email: sanchezaldair363@gmail.com  
-- 🌐 Portfolio: https://dair12sr.github.io 
+- 🌐 Portfolio: *(deploy it on GitHub Pages)*  
 
 ---
 
 <div align="center">
 
-🧠 **I don’t just write code.  
-I engineer systems.** 🧠
+✨ **I don’t just write code — I engineer systems.** ✨
 
 </div>
