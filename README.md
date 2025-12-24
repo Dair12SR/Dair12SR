@@ -187,7 +187,7 @@
 
 <div align="center">
 
-### 🌟 ¿Te gustó mi perfil? ¡Dale una ⭐ a mis repositorios!
+### 🌟 Gracias por visitar ⭐ mi repositorio!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
