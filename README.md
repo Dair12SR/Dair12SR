@@ -167,7 +167,7 @@
   <code class="language-js">const aldair = {
   nombre: "Aldair Sanchez Romero",
   ubicacion: "Huancayo, Perú 🇵🇪",
-  formacion: "Ingeniería de Sistemas (8vo ciclo)",
+  formacion: "Ingeniería de Sistemas (DairSy)",
   universidad: "Universidad Peruana Los Andes",
   enfoque: "Backend & Arquitectura de Software",
   stack_principal: ["Java", "Spring Boot", "React", "PostgreSQL"],
