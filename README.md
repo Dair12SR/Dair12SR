@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre Mí
 
-🎓 Estudiante de **Ingeniería de Sistemas** (UPLA) — ** DAIRSY**  
+🎓 Estudiante de **Ingeniería de Sistemas** (UPLA) — **DAIRSY**  
 📍 Huancayo, Perú 🇵🇪  
 🧠 Enfoque: **Backend & Arquitectura de Software**  
 🔥 Me gusta construir software **escalable, seguro y mantenible**  
